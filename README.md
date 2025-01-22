@@ -2,7 +2,7 @@
 
 #### Install all the packages:
 
-`npm install —legacy-peer-deps`
+`npm install --legacy-peer-deps`
 
 #### Make an account on [neon.tech](https://console.neon.tech/realms/prod-realm/protocol/openid-connect/auth?client_id=neon-console&redirect_uri=https%3A%2F%2Fconsole.neon.tech%2Fauth%2Fkeycloak%2Fcallback&response_type=code&scope=openid+profile+email&state=suLhFXykuuU58I6SCCXYQw%3D%3D%2C%2C%2C&ref=/app/projects/rapid-frost-76552912/branches/br-quiet-feather-a4b2ugww/tables)
 
