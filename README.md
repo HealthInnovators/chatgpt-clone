@@ -12,7 +12,11 @@
 
 `npm install --legacy-peer-deps`
 
-#### In the .env.local file, add the Google Gemini API key, Blob token, and Postgres url
+#### Add variable to the .env.local file, 
+
+- add the Google Gemini API key
+- Blob token, and
+- Postgres url
 
 #### Sync the database
 
