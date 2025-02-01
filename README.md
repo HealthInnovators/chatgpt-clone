@@ -10,7 +10,7 @@
 
 #### Install all the packages:
 
-`npm install --legacy-peer-deps`
+`pnpm install
 
 #### Add variable to the .env.local file, 
 
@@ -20,10 +20,10 @@
 
 #### Sync the database
 
-`npm run db:generate`
+`pnpm run db:generate`
 
-`npm run db:migrate`
+`pnpm run db:migrate`
 
 #### Run Locally
 
-`npm run dev`
+`pnpm run dev`
