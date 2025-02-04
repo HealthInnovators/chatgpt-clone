@@ -10,7 +10,7 @@
 
 #### Install all the packages:
 
-`pnpm install
+pnpm install
 
 #### Add variable to the .env.local file, 
 
@@ -20,10 +20,10 @@
 
 #### Sync the database
 
-`pnpm run db:generate`
+pnpm run db:generate
 
-`pnpm run db:migrate`
+pnpm run db:migrate
 
 #### Run Locally
 
-`pnpm run dev`
+pnpm run dev
