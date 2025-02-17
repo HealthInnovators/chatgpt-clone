@@ -14,7 +14,8 @@ pnpm install
 
 #### Add variable to the .env.local file, 
 
-- add the Google Gemini API key
+- Add the Google Gemini API key
+- Add random secret
 - Blob token, and
 - Postgres url
 
