@@ -2,11 +2,13 @@
 
 ## Pre-requisites
 
-- Install VS Code - https://code.visualstudio.com/download
-- Install node js - https://nodejs.org/en/download
-- Get Google Gemini API key - https://aistudio.google.com/
-- Create Blob store on Vercel at http://www.vercel.com/
-- Create Postgres database on Vercel at http://www.vercel.com/
+Download code from here - https://github.com/HealthInnovators/chatgpt-clone/tree/main
+Install VS Code - https://code.visualstudio.com/download
+Install node js - https://nodejs.org/en/download
+Get Google Gemini API key - https://aistudio.google.com/
+Generate a random secret: https://generate-secret.vercel.app/32
+Create Blob store on Vercel at http://www.vercel.com/
+Create Postgres database on Vercel at http://www.vercel.com/
 
 #### Install all the packages:
 
